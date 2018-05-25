@@ -1,4 +1,8 @@
-# lab-5-Infinem
-# U1610239
-# Sunnat Makhmudov
-# Section: 002
+### Student Details:
+
+
+- **Student ID**: U1610239
+
+- **Student Name**: Sunnat Makhmudov
+- **Section Number**: 002
+
